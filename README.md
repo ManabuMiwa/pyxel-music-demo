@@ -59,7 +59,7 @@ This project is a demo application for creating music using Pyxel, a retro game 
 3. Activate the virtual environment:
 
    ```cmd
-   venv\Scripts\activate
+   .venv\Scripts\activate
    ```
 
 4. Install the required dependencies:
