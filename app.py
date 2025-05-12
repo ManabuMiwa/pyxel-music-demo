@@ -23,7 +23,7 @@ class App:
     def update(self):
         if pyxel.btnp(pyxel.KEY_Q):
             pyxel.quit()
-        if pyxel.play_pos(1) == None:
+        if pyxel.play_pos(0) == None:
             pyxel.playm(0)
 
     def draw(self):
