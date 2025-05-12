@@ -1,6 +1,7 @@
 # Pyxel Music Demo
 
 This project is a demo application for creating music using Pyxel, a retro game engine for Python.
+[A demo on Pyxel Web Launcher](https://kitao.github.io/pyxel/wasm/launcher/?run=ManabuMiwa.pyxel-music-demo.app)
 
 ## Project Structure
 
